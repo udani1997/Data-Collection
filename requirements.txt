@@ -1,0 +1,13 @@
+ADS1x15-ADC==1.2.2
+matplotlib==3.7.1
+numpy==1.24.2
+obspy==1.4.0
+python-apt==2.2.1
+python-dateutil==2.8.2
+python-prctl==1.7
+RPi.GPIO==0.7.0
+SciPy==1.8.1
+smbus2==0.4.2
+ssh-import-id==5.10
+v4l2-python3==0.3.1
+paho-mqtt==1.5.1
